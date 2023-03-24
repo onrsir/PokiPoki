@@ -6,6 +6,9 @@ PokiPoki - Swift </a>
   Please follow the link below for the introductory slideshow.
   [My project presentation slideshow](https://tome.app/mmoo-50c/welcome-to-my-project-clflomjf6031bb143dktuniem)
   
+  [Burada örnek bir web sitesi var](https://tome.app/mmoo-50c/welcome-to-my-project-clflomjf6031bb143dktuniem)
+
+  
  </a>
 </h2>
 
