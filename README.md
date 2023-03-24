@@ -5,12 +5,15 @@ PokiPoki - Swift </a>
 <h2 align="center">
   Please follow the link below for the introductory slideshow.
   
-https://tome.app/mmoo-50c/welcome-to-my-project-clflomjf6031bb143dktuniem </a>
+[My project presentation slideshow](https://tome.app/mmoo-50c/welcome-to-my-project-clflomjf6031bb143dktuniem)
+  
+ </a>
 </h2>
 
 
 
-- iOS 11 Support
+
+
 - MVVM
 - UIKit
 - Dependency Data Injection
