@@ -14,7 +14,7 @@ https://tome.app/mmoo-50c/welcome-to-my-project-clflomjf6031bb143dktuniem </a>
 - Dependency Data Injection
 - 2 Page =  Main List Screen(+Search)  -> Details Screen 
 <h2 align="center">
-About PokePoki </a> 
+About PokiPoki </a> 
 </h2>
 
 - [API ](https://pokeapi.co) Pokémon data through a modern RESTful API. Free and no authentication is required.
