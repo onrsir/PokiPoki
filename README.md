@@ -14,7 +14,6 @@ PokiPoki - Swift </a>
 
 
 
-- iOS 11 Support
 - MVVM
 - UIKit
 - Dependency Data Injection
