@@ -2,7 +2,7 @@
 //  DetailViewModel.swift
 //  PokedexApp
 //
-//  Created by Onur Sir on 10.07.2022.
+//  Created by Onur Sir on 23.03.2023.
 //
 
 import Foundation
